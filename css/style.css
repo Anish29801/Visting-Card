@@ -1,0 +1,75 @@
+*{
+    position: relative;
+}
+
+.cover{
+    box-shadow: #8888 10px 10px 10px 10px;
+    border-radius: 8px;
+    width: 600px;
+    height: 400px;
+    left: 25%;
+    top: 50px;
+    background-color: #ebe5c5;
+
+}
+.pos{
+    top:-60px;
+    font-family: 'Silkscreen', 'cursive';
+    left: -20%;
+
+}
+.logoimg{
+    padding-left: 150px;
+    width: 200px;
+}
+.logo_tittle{
+    border-radius: 16px;
+    font-size: 18px;
+    padding-left: 50px;
+    left: 95%;
+    top:-15px;
+    font-family: 'Silkscreen', 'cursive';
+
+}
+.name{
+    display: flex;
+    top:-190px;
+    left:14%;
+}
+.role{
+    display: flex;
+    top: -205px;
+    left: 14.5%;
+}
+.logos{
+    display: flex;
+    top: -190px;
+    left: 30px;
+}
+.git{
+    width: 40px;
+    border-radius: 50px;
+    padding: 10px;
+}
+.git:hover{
+    width: 48px;
+}
+.namelabel,.name_main{
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 900;
+}
+.name_main{
+    left:5px;
+    text-decoration:underline;
+}
+.photo{
+    width: 80px;
+    left: 12%;
+    top:-190px;
+}
+.main{
+    width: 160px;
+    left: 40%;
+    top: 90px;
+}
